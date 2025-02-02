@@ -1,9 +1,7 @@
 <h1 align="center">Hello 👋, I'm Gunawan</h1>
 <h3 align="center">A man who has a passion for IoT and Backend Developer, currently Learning Cyber ​​Security</h3>
 
-- 🌱 I’m currently learning **Cyber Security**
-
-- 🎯 Goals: become a **Good Engineer**
+- 🌱 I’m currently learning **Cyber Security** and Improving my skills in **GoLang**
 
 - ⚡ Fun fact **I like outdoor activities**
 
