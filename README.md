@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Gunawan</h1>
-<h3 align="center">A man who has a passion for IoT and Backend Developer, currently Learning Cyber ​​Security and AI</h3>
+<h3 align="center">A man who has a passion for IoT and Backend Developer, currently Learning Cyber ​​Security</h3>
 
 - 🌱 I’m currently learning **Cyber Security**
 
