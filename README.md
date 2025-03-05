@@ -19,8 +19,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h4 align="left">IoT and Automation:</h4>
-<p align="left">
+<p align="left"> IoT and Automation
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.raspberrypi.com//" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/3bf1903497ae68a8238b87c3682f1ad7463d3202a1dad041fc747aadb006f10b/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f72617370626572727970692f413232383436" width="40" height="40"/> </a> </p>
 
@@ -30,7 +29,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-<p align="left> >Database:
+<p align="left> > Database:
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
