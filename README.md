@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Gunawan</h1>
-<h3 align="center">A man who has a passion for IoT, Backend Developer, and Cyber ​​Security</h3>
+<h3 align="center">A man who has a passion for IoT and Backend Developery</h3>
 
-- 🌱 I’m currently learning **Cyber Security, GoLang, Python** & **Vue**
+- 🌱 I’m currently learning **GoLang, Python, Java (Spring Boot)** & **Vue**
 
 - ⚡ Fun fact **I like outdoor activities and playing Game**
 
