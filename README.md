@@ -13,7 +13,7 @@
 
 <h3 align="left">My Website:</h3>
 <p align="left">
-  <a href="https://www.gunawanfir.xyz/" target="_blank" rel="noreferrer">
+  <a href="https://www.gunawanfir.my.id/" target="_blank" rel="noreferrer">
     https://www.gunawanfir.xyz/
   </a>
 </p>
